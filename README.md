@@ -8,7 +8,7 @@ From the perspective of the site owner, the aim of this website is to generate c
 
 Link to deployed site:
 
-[Remember Me By Trade IT & Ofice Support Solutions Agency](https://aol83.github.io/Remember-Me-By-Trade/)
+[Remember Me By Trade IT & Office Support Solutions Agency](https://aol83.github.io/Remember-Me-By-Trade/)
 
 
 ## Strategy
