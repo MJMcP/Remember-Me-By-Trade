@@ -56,13 +56,15 @@ The site will consist of a Home landing page with navigation bar and five sectio
 ## Design
 ----
 
-The site's owner wanted a modern 2022 style website. They decided on a six color scheme incorporating a pastel tone colour palette from [ColorSpace](https://mycolor.space/), we checked the colour palette using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) so I decided to go with a simple design as they chose an eight colour palette scheme of a off-white, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with an light blue for the hover state. A dark blue colour and off-white combination fot the buttons statics state gives the buttons highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.  
+The site's owner wanted a modern 2022 style website. They decided on a six color scheme incorporating a pastel tone colour palette from [ColorSpace](https://mycolor.space/), we checked the colour palette using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) 
+
+so I decided to go with a simple design as they chose an eight colour palette scheme of a off-white, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with an light blue for the hover state. A dark blue colour and off-white combination fot the buttons statics state gives the buttons highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.  
 
 ![Contrast Grid](assets/images/contrast-grid.png)
 
 All the images used on site have been sourced from Pexels https://www.pexels.com/  and are copyright free images so permission was not needed. 
 
-Google Fonts was used to select a modern and stylish looking font for the this websit.
+Google Fonts was used to select a modern and stylish looking font for the this website.
 
 ## Features 
 ----
